@@ -1,0 +1,39 @@
+
+.item {
+    border:1px solid #ddd;
+    margin:5px;
+    padding:10px;
+    font-size:20px;
+    background:#eee;
+} 
+.show_more {
+    border:1px solid #ddd;
+    margin:5px;
+    padding:10px;
+    font-size:20px;
+    background:#ccc;
+    display:block;
+    text-align:center;
+    cursor:pointer;
+}
+.loading {
+    border:1px solid #ddd;
+    margin:5px;
+    padding:10px;
+    font-size:20px;
+    background:#ddd;
+    display:block;
+    text-align:center;
+    cursor:pointer;
+} 
+.bitti {
+    border:1px solid #ddd;
+    margin:auto;
+    width:300px;
+    padding:10px;
+    font-size:20px;
+    background:white;
+    display:block;
+    text-align:center;
+    cursor:pointer;
+}
